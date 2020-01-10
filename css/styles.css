@@ -1,3 +1,7 @@
-.jumbotron {
+body {
+  font-family: sans-serif;
+}
+
+.jumbotron{
   text-align: center;
 }

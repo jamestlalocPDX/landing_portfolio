@@ -5,3 +5,12 @@ body {
 .jumbotron{
   text-align: center;
 }
+
+.column {
+  width: 400px;
+  float: left;
+}
+
+img {
+  float: left;
+}

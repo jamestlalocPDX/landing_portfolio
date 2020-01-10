@@ -14,3 +14,7 @@ body {
 img {
   float: left;
 }
+
+strong {
+  text-decoration: underline;
+}

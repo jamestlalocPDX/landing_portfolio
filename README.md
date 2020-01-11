@@ -14,9 +14,9 @@ _This website educates the public on a brief history of cinema. Included are few
  
  There are two ways to access this website:
 
-1. Click this link: [jonathancarlos21/github.io/the-art-of-cinema](jonathancarlos21/github.io/the-art-of-cinema)
+1. Click this link: [jonathancarlos21.github.io/the-art-of-cinema](jonathancarlos21.github.io/the-art-of-cinema)
 
-2. Copy the URL _jonathancarlos21/github.io/the-art-of-cinema_, and paste it into your address bar, and then search.
+2. Copy the URL _jonathancarlos21.github.io/the-art-of-cinema_, and paste it into your address bar, and then search.
 
 ## **Known Bugs**
 

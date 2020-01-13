@@ -38,6 +38,6 @@ If you have any questions, comments, or concerns, feel free to contact the conte
 
 ## **License**
 
-Copyright (c) **_Jonathan Carlos_**
+Copyright (c) 2020 **_Jonathan Carlos_**
 
 This software is licensed under the MIT license.

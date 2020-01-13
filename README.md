@@ -6,7 +6,7 @@
 
 ## **Description**
 
-_This website will act as an online resume that privodes information on Jonathan Carlos. It will  include background information, hobbies, job experience, and completed projects._
+_This website will act as an online resume that privodes information on Jonathan Carlos. It will include an about me, background information, interests and hobbies, education, job experiences, and completed projects._
 
 ## **Setup/Installation**
  
@@ -18,7 +18,7 @@ _This website will act as an online resume that privodes information on Jonathan
 
 ## **Known Bugs**
 
-The image have been known to overlap when changing screen size. It should not hinder the exeperience or purpose of this website.
+The image has been known not to center when changing screen size. It should not hinder the exeperience or purpose of this website.
 
 ## **Support and contact details**
 

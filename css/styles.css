@@ -14,18 +14,14 @@ img {
   max-width: max-content;
 }
 
-.indent {
+p {
   text-indent: 30px;
 }
 
-.project-description {
+p.project-description {
   text-indent: 30px;
   text-align: left;
   padding: 25px;
-}
-
-strong {
-  text-decoration: underline;
 }
 
 span {
@@ -53,4 +49,8 @@ span {
 .footer {
   color: white;
   text-align: center;
+}
+
+.bg-info {
+  list-style: none;
 }

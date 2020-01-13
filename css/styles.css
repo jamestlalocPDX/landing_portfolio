@@ -14,6 +14,16 @@ img {
   max-width: max-content;
 }
 
+.indent {
+  text-indent: 30px;
+}
+
+.project-description {
+  text-indent: 30px;
+  text-align: left;
+  padding: 25px;
+}
+
 strong {
   text-decoration: underline;
 }
@@ -23,5 +33,23 @@ span {
   font-weight: bolder;
 }
 
-.projects {
+.hidden-bullets {
   list-style: none;
+}
+
+.panel-title {
+  color: black;
+  font-weight: bold;
+}
+
+.col-md-4 {
+  margin: auto;
+  border: 5px black;
+  padding: 15px;
+  text-align: center;
+  }
+
+.footer {
+  color: white;
+  text-align: center;
+}

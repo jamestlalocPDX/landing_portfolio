@@ -12,9 +12,9 @@ _This website will act as an online resume that privodes information on Jonathan
  
  There are two ways to access this website:
 
-1. Click this link: [http://jonathancarlos21.github.io/the-art-of-cinema](http://jonathancarlos21.github.io/the-art-of-cinema)
+1. Click this link: [https://jonathancarlos21.github.io/the-art-of-cinema](https://jonathancarlos21.github.io/the-art-of-cinema)
 
-2. Copy the URL _jonathancarlos21.github.io/the-art-of-cinema_, and paste it into your address bar, and then search.
+2. Copy the URL _https://jonathancarlos21.github.io/the-art-of-cinema_, and paste it into your address bar, and then search.
 
 ## **Known Bugs**
 

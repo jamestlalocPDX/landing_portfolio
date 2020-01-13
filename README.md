@@ -1,4 +1,4 @@
-# _The Art of Cinema_
+# Portfolio Landing Page
 
 #### _Code Review for Week 1 - 1/10/2020_
 
@@ -6,9 +6,7 @@
 
 ## **Description**
 
-_This website educates the public on a brief history of cinema. Included are few individuals who changed the industry, five films that are considered the greatest of all time, and why it is important to know how cinema affects culture and society._
-
-![An image of a movie theater](http://www.livingonehanded.com/wp-content/uploads/2012/11/movie-theater-auditorium.jpg)
+_This website will act as an online resume that privodes information on Jonathan Carlos. It will  include background information, hobbies, job experience, and completed projects._
 
 ## **Setup/Installation**
  
@@ -20,7 +18,7 @@ _This website educates the public on a brief history of cinema. Included are few
 
 ## **Known Bugs**
 
-A few of the images have been known to overlap when changing screen size. It should not hinder the exeperience or purpose of this website.
+The image have been known to overlap when changing screen size. It should not hinder the exeperience or purpose of this website.
 
 ## **Support and contact details**
 
@@ -40,6 +38,6 @@ If you have any questions, comments, or concerns, feel free to contact the conte
 
 ## **License**
 
-Copyright (c) **_The Art of Cinema_**
+Copyright (c) **_Jonathan Carlos_**
 
 This software is licensed under the MIT license.

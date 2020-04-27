@@ -12,7 +12,7 @@ _This website will act as an online resume that privodes information on Jonathan
  
  There are two ways to access this website:
 
-1. Click this link: [https://jonathancarlos21.github.io/landing_portfolio](https://jonathancarlos21.github.io/landing_portfolio)
+1. Click this link: [https://jamestlalocPDX.github.io/landing_portfolio](https://jonathancarlos21.github.io/landing_portfolio)
 
 2. Copy the URL _https://jonathancarlos21.github.io/landing_portfolio_, and paste it into your address bar, and then search.
 
